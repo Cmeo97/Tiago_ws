@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/pal_walking_msgs/share/gennodejs/ros/pal_walking_msgs/msg/WalkingStep.js

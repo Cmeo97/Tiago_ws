@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/pal_device_msgs/share/roseus/ros/pal_device_msgs/srv/ShutdownAndWakeUpRobot.l

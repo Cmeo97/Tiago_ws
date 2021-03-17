@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/tiago_dual_description/share/tiago_dual_description/cmake/tiago_dual_descriptionConfig-version.cmake

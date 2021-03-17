@@ -1,0 +1,2 @@
+set(dynamic_introspection_MESSAGE_FILES "/home/cristian/tiago_dual_public_ws/src/dynamic_introspection/msg/BoolParameter.msg;/home/cristian/tiago_dual_public_ws/src/dynamic_introspection/msg/IntrospectionMsg.msg;/home/cristian/tiago_dual_public_ws/src/dynamic_introspection/msg/DoubleParameter.msg;/home/cristian/tiago_dual_public_ws/src/dynamic_introspection/msg/IntParameter.msg;/home/cristian/tiago_dual_public_ws/src/dynamic_introspection/msg/MarkerParameter.msg")
+set(dynamic_introspection_SERVICE_FILES "")

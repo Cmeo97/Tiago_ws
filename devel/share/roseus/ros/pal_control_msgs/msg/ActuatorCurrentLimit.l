@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/pal_control_msgs/share/roseus/ros/pal_control_msgs/msg/ActuatorCurrentLimit.l

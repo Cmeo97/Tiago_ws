@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/pal_detection_msgs/include/pal_detection_msgs/TexturedObjectDetection.h

@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/pal_control_msgs/share/gennodejs/ros/pal_control_msgs/msg/RigidBodyTrajectoryActionGoal.js

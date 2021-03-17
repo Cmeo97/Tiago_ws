@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/pal_device_msgs/share/common-lisp/ros/pal_device_msgs/msg/LedEffectParams.lisp

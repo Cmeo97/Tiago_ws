@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/tiago_dual_trajectory_controller/share/tiago_dual_trajectory_controller/cmake/tiago_dual_trajectory_controllerConfig.cmake

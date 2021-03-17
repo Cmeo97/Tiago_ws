@@ -1,0 +1,8 @@
+prefix=/home/cristian/tiago_dual_public_ws/devel/.private/tiago_dual_trajectory_controller
+
+Name: tiago_dual_trajectory_controller
+Description: Description of tiago_dual_trajectory_controller
+Version: 2.0.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

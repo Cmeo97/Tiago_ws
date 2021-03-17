@@ -1,0 +1,8 @@
+prefix=/home/cristian/tiago_dual_public_ws/install
+
+Name: tiago_dual_laser_sensors
+Description: Description of tiago_dual_laser_sensors
+Version: 1.0.16
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

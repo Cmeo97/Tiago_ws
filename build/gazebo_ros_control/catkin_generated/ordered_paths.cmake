@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/cristian/tiago_dual_public_ws/devel/.private/controller_manager/lib;/home/cristian/tiago_dual_public_ws/devel/.private/transmission_interface/lib;/opt/ros/melodic/lib")

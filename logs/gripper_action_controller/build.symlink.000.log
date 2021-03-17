@@ -1,0 +1,4 @@
+Symlinking /home/cristian/tiago_dual_public_ws/devel/share/gripper_action_controller/cmake/gripper_action_controllerConfig-version.cmake
+Symlinking /home/cristian/tiago_dual_public_ws/devel/share/gripper_action_controller/cmake/gripper_action_controllerConfig.cmake
+Symlinking /home/cristian/tiago_dual_public_ws/devel/lib/libgripper_action_controller.so
+Symlinking /home/cristian/tiago_dual_public_ws/devel/lib/pkgconfig/gripper_action_controller.pc

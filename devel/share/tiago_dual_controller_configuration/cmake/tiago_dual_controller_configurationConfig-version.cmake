@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/tiago_dual_controller_configuration/share/tiago_dual_controller_configuration/cmake/tiago_dual_controller_configurationConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/cristian/tiago_dual_public_ws/devel/.private/tiago_dual_2dnav
+
+Name: tiago_dual_2dnav
+Description: Description of tiago_dual_2dnav
+Version: 1.0.16
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

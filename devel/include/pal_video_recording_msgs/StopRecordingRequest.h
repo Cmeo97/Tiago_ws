@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/pal_video_recording_msgs/include/pal_video_recording_msgs/StopRecordingRequest.h

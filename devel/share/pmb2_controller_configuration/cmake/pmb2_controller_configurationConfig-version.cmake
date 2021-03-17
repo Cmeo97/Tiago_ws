@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/pmb2_controller_configuration/share/pmb2_controller_configuration/cmake/pmb2_controller_configurationConfig-version.cmake

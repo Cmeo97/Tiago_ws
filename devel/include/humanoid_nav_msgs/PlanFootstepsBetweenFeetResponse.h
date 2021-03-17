@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/humanoid_nav_msgs/include/humanoid_nav_msgs/PlanFootstepsBetweenFeetResponse.h

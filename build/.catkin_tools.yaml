@@ -1,0 +1,6 @@
+devel_space: /home/cristian/tiago_dual_public_ws/devel
+install: false
+install_space: /home/cristian/tiago_dual_public_ws/install
+profile: default
+source_space: /home/cristian/tiago_dual_public_ws/src
+workspace: /home/cristian/tiago_dual_public_ws

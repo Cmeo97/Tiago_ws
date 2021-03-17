@@ -1,0 +1,33 @@
+#!/bin/sh
+
+if [ -n "$DESTDIR" ] ; then
+    case $DESTDIR in
+        /*) # ok
+            ;;
+        *)
+            /bin/echo "DESTDIR argument must be absolute... "
+            /bin/echo "otherwise python's distutils will bork things."
+            exit 1
+    esac
+fi
+
+echo_and_run() { echo "+ $@" ; "$@" ; }
+
+echo_and_run cd "/home/cristian/tiago_dual_public_ws/src/simple_grasping_action"
+
+# ensure that Python install destination exists
+echo_and_run mkdir -p "$DESTDIR/home/cristian/tiago_dual_public_ws/install/lib/python2.7/dist-packages"
+
+# Note that PYTHONPATH is pulled from the environment to support installing
+# into one location when some dependencies were installed in another
+# location, #123.
+echo_and_run /usr/bin/env \
+    PYTHONPATH="/home/cristian/tiago_dual_public_ws/install/lib/python2.7/dist-packages:/home/cristian/tiago_dual_public_ws/build/simple_grasping_action/lib/python2.7/dist-packages:$PYTHONPATH" \
+    CATKIN_BINARY_DIR="/home/cristian/tiago_dual_public_ws/build/simple_grasping_action" \
+    "/usr/bin/python2" \
+    "/home/cristian/tiago_dual_public_ws/src/simple_grasping_action/setup.py" \
+     \
+    build --build-base "/home/cristian/tiago_dual_public_ws/build/simple_grasping_action" \
+    install \
+    --root="${DESTDIR-/}" \
+    --install-layout=deb --prefix="/home/cristian/tiago_dual_public_ws/install" --install-scripts="/home/cristian/tiago_dual_public_ws/install/bin"

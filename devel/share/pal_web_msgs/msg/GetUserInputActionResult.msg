@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/pal_web_msgs/share/pal_web_msgs/msg/GetUserInputActionResult.msg

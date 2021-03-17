@@ -1,0 +1,8 @@
+prefix=/home/cristian/tiago_dual_public_ws/devel/.private/tiago_dual_controller_configuration
+
+Name: tiago_dual_controller_configuration
+Description: Description of tiago_dual_controller_configuration
+Version: 0.1.36
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/cristian/tiago_dual_public_ws/devel/.private/tiago_dual_gazebo
+
+Name: tiago_dual_gazebo
+Description: Description of tiago_dual_gazebo
+Version: 2.0.18
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

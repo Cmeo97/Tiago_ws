@@ -1,0 +1,8 @@
+prefix=/home/cristian/tiago_dual_public_ws/devel/.private/tiago_dual_description_calibration
+
+Name: tiago_dual_description_calibration
+Description: Description of tiago_dual_description_calibration
+Version: 0.0.9
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

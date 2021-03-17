@@ -1,0 +1,8 @@
+prefix=/home/cristian/tiago_dual_public_ws/install
+
+Name: head_look_to_point
+Description: Description of head_look_to_point
+Version: 2.0.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

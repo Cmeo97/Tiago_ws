@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/look_hand/share/look_hand/cmake/look_handConfig-version.cmake

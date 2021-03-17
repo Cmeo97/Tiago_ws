@@ -1,0 +1,1 @@
+/home/cristian/tiago_dual_public_ws/devel/.private/tiago_dual_bringup/lib/pkgconfig/tiago_dual_bringup.pc

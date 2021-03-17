@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target head_look_to_point[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/head_look_to_point.dir/src/head_look_to_point.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/cristian/tiago_dual_public_ws/devel/.private/head_look_to_point/lib/head_look_to_point/head_look_to_point[0m
+[100%] Built target head_look_to_point
